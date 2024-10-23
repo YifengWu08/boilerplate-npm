@@ -1,6 +1,6 @@
 {
-	"author": "Yifeng Wu",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Yifeng Wu",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
